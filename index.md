@@ -1,7 +1,7 @@
-# TEST
+# TEST!
 ## Hello World!
 ### Have you nice day!
-## Todo
-* Clean the room
+## To-do list:
+* Clean your room
 * Make a coffee.
-* And do something else.
+* And... Do something else.
