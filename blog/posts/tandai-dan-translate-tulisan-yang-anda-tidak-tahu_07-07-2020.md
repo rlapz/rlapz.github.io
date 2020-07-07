@@ -1,4 +1,4 @@
-<-- [back](http://arthurlapz.github.io/blog.md)
+<-- [back](http://arthurlapz.github.io/blog)
 ## Tandai dan Translate kata atau kalimat yang Anda tidak tahu artinya!
 
 ### Daftar Isi:
