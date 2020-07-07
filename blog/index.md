@@ -1,4 +1,5 @@
-# arthurlapz.github.io/blog
+## Blog
+
 <-- [back](http://arthurlapz.github.io)
 
 ## Daftar Postingan:
