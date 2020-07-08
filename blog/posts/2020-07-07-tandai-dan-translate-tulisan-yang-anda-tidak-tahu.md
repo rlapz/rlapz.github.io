@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title:  "Tandai dan Translate kata atau kalimat yang Anda tidak tahu artinya!"
 ---
 <-- [back](http://arthurlapz.github.io/blog)
-## Tandai dan Translate kata atau kalimat yang Anda tidak tahu artinya!
+## {{ page.title }}
 
 ### Daftar Isi:
 1. Pembukaan
