@@ -1,1 +1,11 @@
-[Home]({{ site.url }}) | [Blog]({{ site.url }}/blog ) | [About]({{ site.url }}/about)
+<nav>
+  <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
+    Home
+  </a>
+  <a href="/blog.html" {% if page.url == "/blog.html" %}style="color: red;"{% endif %}>
+    Blog
+  </a>
+  <a href="/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
+    About
+  </a>
+</nav>
