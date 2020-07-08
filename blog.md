@@ -5,5 +5,5 @@ title: Blog
 ### Daftar Postingan:
 
 {% for post in site.posts %}
-1.[{{ post.title }}]({{ post.url }}) - {{ page.date | date_to_string }}
+1.[{{ post.title }}]({{ post.url }}) - {{ post.date | date_to_string }}
 {% endfor %}
