@@ -1,4 +1,7 @@
+---
+layout: default
+---
 {% include nav_default.md %}
-## {{ site.title }} 
+## {{ page.title }}
 
 {{ content }}
