@@ -2,8 +2,6 @@
 layout: default
 title: Home
 ---
-# arthurlapz.github.io
-
 [Blog](http://arthurlapz.github.io/blog) | [About](http://arthurlapz.github.io/about)
 
 ## Selamat Datang!
