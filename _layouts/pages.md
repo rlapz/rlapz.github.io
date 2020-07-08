@@ -2,6 +2,6 @@
 layout: default
 ---
 {% include nav_default.html %}
-## {{ page.title }}
+<h2>{{ page.title }}</h2>
 
 {{ content }}
