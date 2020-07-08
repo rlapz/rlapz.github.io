@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include nav_default.md %}
+{% include nav_default.html %}
 ## {{ page.title }}
 
 {{ content }}
