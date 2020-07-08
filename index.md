@@ -2,9 +2,8 @@
 layout: default
 title: Home
 ---
-[Blog](http://arthurlapz.github.io/blog) | [About](http://arthurlapz.github.io/about)
-
+{% include nav_default.md %}
 ## Selamat Datang!
 
 #### Tuesday, 07 July 2020
-        Halo, apa kabar?
+ Halo, apa kabar?

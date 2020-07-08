@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
+title: About Me
 ---
-## About Me
+{% include nav_default.md %}
+## {{ site.title }} 
 
-[Home](http://arthurlapz.github.io/) | [Blog](http://arthurlapz.github.io/blog)
 
 ## Perkenalan
-        Perkenalkan nama saya Arthur Lapz (nama pena).
+ Perkenalkan nama saya Arthur Lapz (nama pena).
