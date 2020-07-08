@@ -1,3 +1,7 @@
+---
+layout: default
+title: Blog
+---
 ## Blog
 
 ### Daftar Postingan:
