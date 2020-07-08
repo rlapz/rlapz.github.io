@@ -2,8 +2,7 @@
 layout: default
 title: Blog
 ---
-{% include nav_blog.md%}
-## {{ site.title }} 
+{% include nav_default.md%}
 
 ### Daftar Postingan:
 

@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 ---
-<-- [back](http://arthurlapz.github.io/blog)
-## {{ page.title }}
+{% include nav_post.md %}
 {{ page.date | date_to_string }} - {{ page.author }}
 
 {{ content }}

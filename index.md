@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Home
+title: Selamat Datang! 
 ---
 {% include nav_default.md %}
-## Selamat Datang!
 
 #### Tuesday, 07 July 2020
  Halo, apa kabar?
