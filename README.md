@@ -1,2 +1,2 @@
-# arthurlapz.github.io
+# rlapz.github.io
 simple blog
