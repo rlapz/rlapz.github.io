@@ -3,7 +3,7 @@ layout: pages
 title: About Me
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arthurlapz/arthurlapz.github.io/master/img/profile.png" alt="Foto Profil"/>
+  <img src="https://raw.githubusercontent.com/rlapz/rlapz.github.io/master/img/profile.png" alt="Foto Profil"/>
 </p>
 
 <p align="justify">Perkenalkan nama saya Arthur Lapz (nama pena) biasa dipanggil Lapz diforum-forum diskusi online. Ketertarikan saya pada dunia IT khususnya yang berhubungan dengan proyek <i>OpenSource</i> sehingga saya memutuskan untuk membangun situs pribadi (dan blog) yang bertujuan untuk berbagi pengalaman dan tips yang pernah saya lakukan. Situs dan blog ini tidak hanya membahas tentang <i>software</i> tapi juga <i>hardware</i> dan juga hal-hal lain yang tidak ada hubungannya dengan dunia IT.</p>
