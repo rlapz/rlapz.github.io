@@ -6,6 +6,5 @@ title: About Me
   <img src="https://raw.githubusercontent.com/rlapz/rlapz.github.io/master/img/profile.png" alt="Foto Profil"/>
 </p>
 
-<p align="justify">I love simple things.</p>
-<br>
-<p align="justify">https://t.me/rLapz</p>
+<p align="center">I love simple things.</p>
+<p align="center"><a href=https://t.me/rLapz>rLapz</a></p>
