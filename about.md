@@ -7,4 +7,5 @@ title: About Me
 </p>
 
 <p align="center">I love simple things.</p>
+
 <p align="center"><a href=https://t.me/rLapz>rLapz</a></p>
