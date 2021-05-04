@@ -8,4 +8,5 @@ title: About Me
 
 <p align="center">I love simple things.</p>
 
-<p align="center"><a href=https://t.me/rLapz>rLapz</a></p>
+* Telegram  : [@rLapz](https://t.me/rLapz)
+* Twitter   : [@rLapz](https://twitter.com/rLapz)
