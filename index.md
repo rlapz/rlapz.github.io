@@ -1,5 +1,5 @@
 ---
 layout: pages
-title: Selamat Datang! 
+title: Welcome :3
 ---
- Halo, apa kabar? Langsung saja lihat keterangan lebih lanjut pada [About]({{ site.url }}/about).
+ Hello, how are you? Need more information about me? Go ahead -> [About]({{ site.url }}/about).
